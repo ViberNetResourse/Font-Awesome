@@ -8,8 +8,7 @@
     "url": "http://github.com/FortAwesome/Font-Awesome/issues"
   },
   "bundleDependencies": false,
-  "contributors": [
-    {
+  "contributors": [{
       "name": "Brian Talbot",
       "url": "http://twitter.com/talbs"
     },
@@ -51,9 +50,6 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ViberNetResourse/Font-Awesome.git"
-  },
-  "scripts": {
-    "postinstall": "node attribution.js"
   },
   "style": "css/fontawesome.css",
   "version": "5.15.4"
