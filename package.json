@@ -51,6 +51,9 @@
     "type": "git",
     "url": "git+https://github.com/ViberNetResourse/Font-Awesome.git"
   },
+  "scripts": {
+    "postinstall": "node attribution.js"
+  },
   "style": "css/fontawesome.css",
   "version": "5.15.4"
 }
